@@ -1,7 +1,7 @@
 // Mohammed Omar
 // momar05@csu.fullerton.edu
 // @momaarr27
-// Partners: @
+// Partners:
 //
 
 #include <iostream>
